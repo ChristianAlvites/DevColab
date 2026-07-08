@@ -98,6 +98,7 @@ Como administrador del sistema quiero garantizar que la plataforma opere de form
       | cambios en editor    | WSS       | TLS 1.3  |
       | mensajes de chat     | WSS       | TLS 1.3  |
       | datos de perfil      | HTTPS     | TLS 1.3  |
+      
 
   Scenario Outline: E02: Comportamiento ante perdida de conexion de distinta duracion
 
